@@ -1,9 +1,9 @@
 ### rslinford
 
-Assignment in progress. Not ready for evaluation.
+**Assignment in progress** *(not ready for evaluation)*
 
-Forked on Apr 23, 2014
-Submission due on Sun 27 Apr 11:59 pm
+* Forked on Apr 23, 2014
+* Submission due on Sun 27 Apr 11:59 pm
 
 ### Introduction
 
