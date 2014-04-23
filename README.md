@@ -1,3 +1,10 @@
+### rslinford
+
+Assignment in progress. Not ready for evaluation.
+
+Forked on Apr 23, 2014
+Submission due on Sun 27 Apr 11:59 pm
+
 ### Introduction
 
 This second programming assignment will require you to write an R
