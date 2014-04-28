@@ -1,6 +1,8 @@
 ### rslinford
 
-**Assignment in progress** *(not ready for evaluation)*
+**Assignment complete** *(ready for evaluation)*
+
+See function testsuite for unit test coverage.
 
 * Forked on Apr 23, 2014
 * Submission due on Sun 27 Apr 11:59 pm
